@@ -1,4 +1,4 @@
-### Project Name: Analyze NYSEData
+### Project Name: Analyze NYSE Data
 #### Project Description: 
 In this project I analyzed real life data from the New York Stock Exchange  provided by Kaggle. In this project, I have gone through the process of calculating summary statistics, drawing an inference from the statistics, calculating business metrics and using models to forecast future growth prospects for the companies. The goal of the project is to perform an analysis and also create visual tools to communicate the results in informative ways.
 
